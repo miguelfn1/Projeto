@@ -1,0 +1,9 @@
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\imagem\imagem\imagem\imagem\bin\Debug\imagem.exe.config
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\imagem\imagem\imagem\imagem\bin\Debug\imagem.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\imagem\imagem\imagem\imagem\bin\Debug\imagem.pdb
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\imagem\imagem\imagem\imagem\obj\Debug\imagem.csprojResolveAssemblyReference.cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\imagem\imagem\imagem\imagem\obj\Debug\imagem.Form1.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\imagem\imagem\imagem\imagem\obj\Debug\imagem.Properties.Resources.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\imagem\imagem\imagem\imagem\obj\Debug\imagem.csproj.GenerateResource.Cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\imagem\imagem\imagem\imagem\obj\Debug\imagem.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\imagem\imagem\imagem\imagem\obj\Debug\imagem.pdb

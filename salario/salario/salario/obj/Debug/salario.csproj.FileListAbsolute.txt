@@ -1,0 +1,9 @@
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\salario\salario\salario\bin\Debug\salario.exe.config
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\salario\salario\salario\obj\Debug\salario.csprojResolveAssemblyReference.cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\salario\salario\salario\obj\Debug\salario.Form1.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\salario\salario\salario\obj\Debug\salario.Properties.Resources.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\salario\salario\salario\obj\Debug\salario.csproj.GenerateResource.Cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\salario\salario\salario\bin\Debug\salario.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\salario\salario\salario\bin\Debug\salario.pdb
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\salario\salario\salario\obj\Debug\salario.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\salario\salario\salario\obj\Debug\salario.pdb

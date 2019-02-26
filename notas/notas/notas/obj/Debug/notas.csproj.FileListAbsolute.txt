@@ -1,0 +1,9 @@
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\notas\notas\notas\bin\Debug\notas.exe.config
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\notas\notas\notas\obj\Debug\notas.csprojResolveAssemblyReference.cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\notas\notas\notas\obj\Debug\notas.Form1.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\notas\notas\notas\obj\Debug\notas.Properties.Resources.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\notas\notas\notas\obj\Debug\notas.csproj.GenerateResource.Cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\notas\notas\notas\bin\Debug\notas.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\notas\notas\notas\bin\Debug\notas.pdb
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\notas\notas\notas\obj\Debug\notas.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\notas\notas\notas\obj\Debug\notas.pdb

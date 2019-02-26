@@ -1,0 +1,10 @@
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\meu\Meu\Meu\bin\Debug\Meu.exe.config
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\meu\Meu\Meu\bin\Debug\Meu.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\meu\Meu\Meu\bin\Debug\Meu.pdb
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\meu\Meu\Meu\obj\Debug\Meu.frmnewba.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\meu\Meu\Meu\obj\Debug\Meu.Properties.Resources.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\meu\Meu\Meu\obj\Debug\csgo.csproj.GenerateResource.Cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\meu\Meu\Meu\obj\Debug\Meu.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\meu\Meu\Meu\obj\Debug\Meu.pdb
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\meu\Meu\Meu\obj\Debug\csgo.csprojResolveAssemblyReference.cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\meu\Meu\Meu\obj\Debug\Meu.MenuPrinicipal.resources

@@ -1,0 +1,9 @@
+c:\users\miguel.fnascimento\documents\visual studio 2015\Projects\EmpresaABC\Farmacia\bin\Debug\Farmacia.exe.config
+c:\users\miguel.fnascimento\documents\visual studio 2015\Projects\EmpresaABC\Farmacia\bin\Debug\Farmacia.exe
+c:\users\miguel.fnascimento\documents\visual studio 2015\Projects\EmpresaABC\Farmacia\bin\Debug\Farmacia.pdb
+c:\users\miguel.fnascimento\documents\visual studio 2015\Projects\EmpresaABC\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+c:\users\miguel.fnascimento\documents\visual studio 2015\Projects\EmpresaABC\Farmacia\obj\Debug\Farmacia.FrmLogin.resources
+c:\users\miguel.fnascimento\documents\visual studio 2015\Projects\EmpresaABC\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+c:\users\miguel.fnascimento\documents\visual studio 2015\Projects\EmpresaABC\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+c:\users\miguel.fnascimento\documents\visual studio 2015\Projects\EmpresaABC\Farmacia\obj\Debug\Farmacia.exe
+c:\users\miguel.fnascimento\documents\visual studio 2015\Projects\EmpresaABC\Farmacia\obj\Debug\Farmacia.pdb

@@ -1,0 +1,9 @@
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmEstados.cs\bin\Debug\frmEstados.cs.exe.config
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmEstados.cs\bin\Debug\frmEstados.cs.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmEstados.cs\bin\Debug\frmEstados.cs.pdb
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmEstados.cs\obj\Debug\frmEstados.cs.csprojResolveAssemblyReference.cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmEstados.cs\obj\Debug\frmEstados.cs.Properties.Resources.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmEstados.cs\obj\Debug\frmEstados.cs.csproj.GenerateResource.Cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmEstados.cs\obj\Debug\frmEstados.cs.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmEstados.cs\obj\Debug\frmEstados.cs.pdb
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmEstados.cs\obj\Debug\frmEstados.cs.Estados.resources

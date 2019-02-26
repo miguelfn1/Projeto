@@ -1,0 +1,11 @@
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\Farmacia\bin\x64\Debug\Farmacia.exe.config
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\Farmacia\bin\x64\Debug\Farmacia.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\Farmacia\bin\x64\Debug\Farmacia.pdb
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.lblDadosPessoais.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.FrmLogin.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.FrmPrincipal.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.FrmTesteVariavel.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.Properties.Resources.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.pdb

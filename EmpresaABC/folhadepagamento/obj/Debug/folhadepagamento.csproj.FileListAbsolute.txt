@@ -1,0 +1,9 @@
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\folhadepagamento\bin\Debug\folhadepagamento.exe.config
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\folhadepagamento\bin\Debug\folhadepagamento.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\folhadepagamento\bin\Debug\folhadepagamento.pdb
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\folhadepagamento\obj\Debug\folhadepagamento.csprojResolveAssemblyReference.cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\folhadepagamento\obj\Debug\folhadepagamento.frmFolhadePagamento.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\folhadepagamento\obj\Debug\folhadepagamento.Properties.Resources.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\folhadepagamento\obj\Debug\folhadepagamento.csproj.GenerateResource.Cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\folhadepagamento\obj\Debug\folhadepagamento.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\folhadepagamento\obj\Debug\folhadepagamento.pdb

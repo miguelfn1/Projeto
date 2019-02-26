@@ -1,0 +1,10 @@
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe.config
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\CalculadoraSimples\bin\Debug\CalculadoraSimples.pdb
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.csprojResolveAssemblyReference.cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.frmCalculadora.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.frmEstados.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.Properties.Resources.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.GenerateResource.Cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.pdb

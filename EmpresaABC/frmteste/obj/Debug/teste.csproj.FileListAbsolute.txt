@@ -1,0 +1,9 @@
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmteste\bin\Debug\frmteste.exe.config
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmteste\bin\Debug\frmteste.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmteste\bin\Debug\frmteste.pdb
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmteste\obj\Debug\frmteste.frmteste.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmteste\obj\Debug\frmteste.Properties.Resources.resources
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmteste\obj\Debug\teste.csproj.GenerateResource.Cache
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmteste\obj\Debug\frmteste.exe
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmteste\obj\Debug\frmteste.pdb
+C:\Users\miguel.fnascimento\Documents\Visual Studio 2015\Projects\EmpresaABC\frmteste\obj\Debug\teste.csprojResolveAssemblyReference.cache
